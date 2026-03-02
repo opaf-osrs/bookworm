@@ -1,0 +1,20 @@
+.gradle/
+build/
+*.class
+
+# Dev scripts
+push-to-github.bat
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
